@@ -1,5 +1,5 @@
 ## Hello, I'm [Ujjwal Kumar Sittu !](https://ujjwalsittu.in) 👋
-![image](https://user-images.githubusercontent.com/26293424/122806665-3c3fec80-d2e8-11eb-8113-ac766f27c28a.png)
+![image](https://user-images.githubusercontent.com/26293424/122807397-2aab1480-d2e9-11eb-9ad4-01bf8f5cde36.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalsittu&label=Views&color=blue&style=plastic" alt="ujjwalsittu" /> </p>
 
