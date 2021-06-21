@@ -1,4 +1,4 @@
-## Hello, I'm [Ujjwal Kumar SIttu !](https://ujjwalsittu.in) 👋
+## Hello, I'm [Ujjwal Kumar Sittu !](https://ujjwalsittu.in) 👋
 ![image](https://user-images.githubusercontent.com/26293424/122806665-3c3fec80-d2e8-11eb-8113-ac766f27c28a.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalsittu&label=Views&color=blue&style=plastic" alt="ujjwalsittu" /> </p>
@@ -7,7 +7,7 @@
   <img align="left" alt="Ujjwal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/ujjusittu">
-  <img align="left" alt="Ujjwal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ujjwal's Linkdedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ujjwalsittu">
   <img align="left" alt="Ujjwal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
