@@ -24,8 +24,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Onepaise](https://onepaise.com/) Project.
-- 📫 I'm workin ar [Musocial](https://musocial.in) as CEO, Director.
+<!-- - 🔭 I’m currently working on [](https://onepaise.com/) Project. -->
+<!-- - 📫 I'm workin ar [Musocial](https://musocial.in) as CEO, Director. -->
 - 🌱 I’m currently learning more about FinTech.
 - 👯 I’m looking to work with me or join our team, ping me in linkedin.
 -  How to reach me: [Linkedin - /in/ujjusittu](https://linkedin/in/ujjusittu) , [Instagram - @ujjwalsittu](https://instagram.com/ujjwalsittu)
