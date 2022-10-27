@@ -53,12 +53,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/ujjwalsittu">
+<!-- <a href="https://github.com/ujjwalsittu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsittu&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ujjwalsittu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalsittu&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+</a> -->
+[![UjjwalSittu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalsittu)](https://github.com/ujjwalsittu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsittu)](https://github.com/ujjwalsittu&langs_count=8)
+
+
 <!-- <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
