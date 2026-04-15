@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ujjwalsittu">
-    <img src="https://raw.githubusercontent.com/ujjwalsittu/ujjwalsittu/refs/heads/main/UJJWAL-KUMAR-SITTU.jpeg" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ujjwalsittu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/ujjwalsittu?tab=followers">
     <img src="https://img.shields.io/github/followers/ujjwalsittu?label=Followers&style=flat&color=0e75b6" alt="Followers" />
