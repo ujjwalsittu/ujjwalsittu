@@ -116,10 +116,10 @@
   <a href="https://github.com/ujjwalsittu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ujjwalsittu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:sittu.ujjwal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/ujjusittu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
