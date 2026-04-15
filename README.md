@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ujjwal Sittu</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/ujjwalsittu?v=4" width="140" alt="Ujjwal Sittu" />
+  <img src="https://raw.githubusercontent.com/ujjwalsittu/ujjwalsittu/refs/heads/main/UJJWAL-KUMAR-SITTU.jpeg" width="140" alt="Ujjwal Sittu" />
 </p>
 
 <p align="center">
