@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Ujjwal Sittu</h1>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/ujjwalsittu?v=4" width="140" alt="Ujjwal Sittu" />
+</p>
+
+<p align="center">
   <em>Full‑Stack Developer • SaaS Builder • Open Source Enthusiast</em>
 </p>
 
@@ -13,6 +17,9 @@
   </a>
   <a href="https://github.com/ujjwalsittu?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-View-0e75b6?style=flat" alt="Repos" />
+  </a>
+  <a href="https://github.com/sponsors/ujjwalsittu">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-DB61A2?style=flat" alt="Sponsor" />
   </a>
 </p>
 
@@ -108,6 +115,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsittu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsittu&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalsittu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 <h2 id="connect">Connect</h2>
@@ -121,6 +136,9 @@
   </a>
   <a href="https://www.linkedin.com/in/ujjusittu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
