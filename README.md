@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Ujjwal Sittu 👋</h1>
+<h1 align="center">Hi, I'm Ujjwal Sittu</h1>
 
 <p align="center">
-  <em>Full-Stack Developer · SaaS Builder · Open Source Enthusiast</em>
+  <em>Full‑Stack Developer • SaaS Builder • Open Source Enthusiast</em>
 </p>
 
 <p align="center">
@@ -11,62 +11,93 @@
   <a href="https://github.com/ujjwalsittu?tab=followers">
     <img src="https://img.shields.io/github/followers/ujjwalsittu?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   </a>
+  <a href="https://github.com/ujjwalsittu?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-View-0e75b6?style=flat" alt="Repos" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#connect">Connect</a>
 </p>
 
 ---
 
-### 🚀 About Me
+<h2 id="about">About Me</h2>
 
-- 🔭 Currently building **full-stack SaaS products** with TypeScript & Next.js
-- 🌱 Exploring **AI integrations**, **usage-based billing**, and **multi-tenant architectures**
-- 💡 Love shipping end-to-end products — from database schema to polished UI
-- 🌍 Based in **India** 🇮🇳
+- 🔭 Building **full‑stack SaaS products** with **TypeScript** & **Next.js**
+- 🌱 Learning **AI integrations**, **usage‑based billing**, and **multi‑tenant architecture**
+- 💡 Love shipping end‑to‑end products — from schema design to a polished UI
+- 🌍 Based in **India**
 - 💬 Ask me about **TypeScript, Next.js, Node.js, MongoDB, Docker, Razorpay**
 
 ---
 
-### 🛠️ Tech Stack
+<h2 id="tech-stack">Tech Stack</h2>
 
-#### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<details>
+  <summary><strong>Languages & Frameworks</strong></summary>
+  <br />
 
-#### Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+</details>
 
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+<details>
+  <summary><strong>Databases & Storage</strong></summary>
+  <br />
 
-#### UI & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)
+</details>
 
-#### Payments & Integrations
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+<details>
+  <summary><strong>DevOps & Tools</strong></summary>
+  <br />
+
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+  ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+</details>
+
+<details>
+  <summary><strong>UI & Styling</strong></summary>
+  <br />
+
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+</details>
+
+<details>
+  <summary><strong>Payments & Integrations</strong></summary>
+  <br />
+
+  ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+</details>
 
 ---
 
-### 📌 Featured Projects
+<h2 id="projects">Featured Projects</h2>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [�� earth-to-orbit](https://github.com/ujjwalsittu/earth-to-orbit) | B2B Aerospace Platform — machinery & lab bookings with usage-based pricing, RBAC, and multi-tenant orgs | Next.js · Express · MongoDB · Razorpay · Docker |
-| [🏨 ivrhotel-saas-monorepo](https://github.com/ujjwalsittu/ivrhotel-saas-monorepo) | IVR Hotel SaaS Monorepo — hotel management platform with voice-based interactions | TypeScript · Turborepo |
-| [💳 razorpay-myorderbox-pgp](https://github.com/ujjwalsittu/razorpay-myorderbox-pgp) | Razorpay payment gateway integration for order management | TypeScript · Razorpay |
-| [🤖 aidb](https://github.com/ujjwalsittu/aidb) | AI-powered database tooling | TypeScript |
+| Project | What it does | Stack |
+|---|---|---|
+| [🚀 earth-to-orbit](https://github.com/ujjwalsittu/earth-to-orbit) | B2B aerospace platform — bookings, usage‑based pricing, RBAC, multi‑tenant orgs | Next.js • TypeScript • MongoDB |
+| [🏨 ivrhotel-saas-monorepo](https://github.com/ujjwalsittu/ivrhotel-saas-monorepo) | Hotel management SaaS monorepo with voice/IVR interactions | TypeScript • Turborepo |
+| [💳 razorpay-myorderbox-pgp](https://github.com/ujjwalsittu/razorpay-myorderbox-pgp) | Razorpay PG integration for order management workflows | TypeScript • Razorpay |
+| [🤖 aidb](https://github.com/ujjwalsittu/aidb) | AI‑powered database tooling experiments | TypeScript |
 
 ---
 
-### 📊 GitHub Stats
+<h2 id="stats">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsittu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
@@ -79,16 +110,22 @@
 
 ---
 
-### 📫 Connect with Me
+<h2 id="connect">Connect</h2>
 
 <p align="left">
   <a href="https://github.com/ujjwalsittu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ujjwalsittu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>⚡ Building products that matter, one commit at a time.</em>
+  <em>Building products that matter, one commit at a time.</em>
 </p>
